@@ -1,10 +1,12 @@
-#Fare Calculator
+Fare Calculator
 
-#Assumption
+Assumption
+
     * PAN as unique identifier for Taps
     * Trips file directory exist.
 
-###Steps :
+Steps :
+
     * Checkout repository
     * Navigate to project directory
     * Clean and build `./gradlew clean build`
