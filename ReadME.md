@@ -1,4 +1,4 @@
-#Trip Calculator
+#Fare Calculator
 
 #Assumption
     * PAN as unique identifier for Taps
@@ -7,4 +7,5 @@
 ###Steps :
     * Checkout repository
     * Navigate to project directory
-    * ./gradlew run --args="src/main/resources/taps.csv src/main/resources/trips.csv"
+    * Clean and build `./gradlew clean build`
+    * Run `./gradlew run --args="src/main/resources/taps.csv src/main/resources/trips.csv"`
